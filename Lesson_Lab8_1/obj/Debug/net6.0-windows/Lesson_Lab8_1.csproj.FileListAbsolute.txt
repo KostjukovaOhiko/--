@@ -1,0 +1,17 @@
+F:\универ\ООП\Практика № 8\Lesson_Lab8_1\Lesson_Lab8_1\bin\Debug\net6.0-windows\Lesson_Lab8_1.exe
+F:\универ\ООП\Практика № 8\Lesson_Lab8_1\Lesson_Lab8_1\bin\Debug\net6.0-windows\Lesson_Lab8_1.deps.json
+F:\универ\ООП\Практика № 8\Lesson_Lab8_1\Lesson_Lab8_1\bin\Debug\net6.0-windows\Lesson_Lab8_1.runtimeconfig.json
+F:\универ\ООП\Практика № 8\Lesson_Lab8_1\Lesson_Lab8_1\bin\Debug\net6.0-windows\Lesson_Lab8_1.dll
+F:\универ\ООП\Практика № 8\Lesson_Lab8_1\Lesson_Lab8_1\bin\Debug\net6.0-windows\Lesson_Lab8_1.pdb
+F:\универ\ООП\Практика № 8\Lesson_Lab8_1\Lesson_Lab8_1\obj\Debug\net6.0-windows\Lesson_Lab8_1.csproj.AssemblyReference.cache
+F:\универ\ООП\Практика № 8\Lesson_Lab8_1\Lesson_Lab8_1\obj\Debug\net6.0-windows\Lesson_Lab8_1.Form1.resources
+F:\универ\ООП\Практика № 8\Lesson_Lab8_1\Lesson_Lab8_1\obj\Debug\net6.0-windows\Lesson_Lab8_1.csproj.GenerateResource.cache
+F:\универ\ООП\Практика № 8\Lesson_Lab8_1\Lesson_Lab8_1\obj\Debug\net6.0-windows\Lesson_Lab8_1.GeneratedMSBuildEditorConfig.editorconfig
+F:\универ\ООП\Практика № 8\Lesson_Lab8_1\Lesson_Lab8_1\obj\Debug\net6.0-windows\Lesson_Lab8_1.AssemblyInfoInputs.cache
+F:\универ\ООП\Практика № 8\Lesson_Lab8_1\Lesson_Lab8_1\obj\Debug\net6.0-windows\Lesson_Lab8_1.AssemblyInfo.cs
+F:\универ\ООП\Практика № 8\Lesson_Lab8_1\Lesson_Lab8_1\obj\Debug\net6.0-windows\Lesson_Lab8_1.csproj.CoreCompileInputs.cache
+F:\универ\ООП\Практика № 8\Lesson_Lab8_1\Lesson_Lab8_1\obj\Debug\net6.0-windows\Lesson_Lab8_1.dll
+F:\универ\ООП\Практика № 8\Lesson_Lab8_1\Lesson_Lab8_1\obj\Debug\net6.0-windows\refint\Lesson_Lab8_1.dll
+F:\универ\ООП\Практика № 8\Lesson_Lab8_1\Lesson_Lab8_1\obj\Debug\net6.0-windows\Lesson_Lab8_1.pdb
+F:\универ\ООП\Практика № 8\Lesson_Lab8_1\Lesson_Lab8_1\obj\Debug\net6.0-windows\Lesson_Lab8_1.genruntimeconfig.cache
+F:\универ\ООП\Практика № 8\Lesson_Lab8_1\Lesson_Lab8_1\obj\Debug\net6.0-windows\ref\Lesson_Lab8_1.dll
